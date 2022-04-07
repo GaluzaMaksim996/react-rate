@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-rate/static/css/main.97495382.css",
+    "main.js": "/react-rate/static/js/main.d18a299c.js",
+    "static/media/USD.png": "/react-rate/static/media/USD.cafdbbd0fa897de802e3.png",
+    "static/media/GBP.png": "/react-rate/static/media/GBP.cd2d9f0da1b0677cf8b6.png",
+    "static/media/EUR.png": "/react-rate/static/media/EUR.f743010e3b598e11e840.png",
+    "static/media/JPY.png": "/react-rate/static/media/JPY.4b2c41c942a7aba6851d.png",
+    "static/media/CNY.png": "/react-rate/static/media/CNY.16052c5e33052ac4149f.png",
+    "static/media/RUB.png": "/react-rate/static/media/RUB.3b0c98324c9d000887d1.png",
+    "index.html": "/react-rate/index.html",
+    "main.97495382.css.map": "/react-rate/static/css/main.97495382.css.map",
+    "main.d18a299c.js.map": "/react-rate/static/js/main.d18a299c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97495382.css",
+    "static/js/main.d18a299c.js"
+  ]
+}
